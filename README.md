@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @promet99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-promet99/promet99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Javascript, Typescript, and ReactJS
+- 🌱 I’m currently learning more on ReactJS 
+- 💞️ I’m looking to collaborate on npm packages for ReactJS
+- 📫 Reach me by opening an issue on any of my repos. I check rather reguarly
