@@ -16,4 +16,4 @@
 </p>
 - 👀 Interested in Javascript, Typescript, and ReactJS  </br>
 - 💞️ Looking to collaborate on npm packages for ReactJS    </br>
-- 📫 Reach me by opening an issue on any of my repos. I check them    </br>
+- 📫 Reach me by opening an issue on this repo. I will try to check.    </br>
